@@ -9,7 +9,7 @@ public class Inversion {
         this.interesAnual = interesAnual;
     }
 
-    public double calcularInversionMostrarPor(Integer cantidadAños) {
+    public double calcularInversionMostrarPor(int cantidadAños) {
         double resultado = this.montoInversion * Math.pow(calculoInteresMes(), cantidadAños * 12);
         return formatearDecimales(resultado);
     }
@@ -19,7 +19,7 @@ public class Inversion {
         return (int) Math.ceil(resultado);
     }
 
-    private static double formatearDecimales(Double numero) {
+    private static double formatearDecimales(double numero) {
         return Math.round(numero * Math.pow(10, cantidadDecimales)) / Math.pow(10, cantidadDecimales);
     }
 
