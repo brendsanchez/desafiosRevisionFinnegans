@@ -11,16 +11,11 @@ public class Inversion {
 
     public double calcularInversionMostrarPor(Integer cantidadAños) {
         double resultado = this.montoInversion * Math.pow(calculoInteresMes(), cantidadAños * 12);
-        //for solo para ver
-        for (int i = 1; i < cantidadAños + 1; i++) {
-            System.out.println(formatearDecimales(this.montoInversion * Math.pow(calculoInteresMes(), i * 12)));
-        }
         return formatearDecimales(resultado);
     }
 
     public int calcularCuantoTiempoEnMesesCon(double saldoFinalDeseado) {
         double resultado = Math.log(saldoFinalDeseado / montoInversion) / Math.log(calculoInteresMes());
-        System.out.println((int) Math.ceil(resultado));
         return (int) Math.ceil(resultado);
     }
 

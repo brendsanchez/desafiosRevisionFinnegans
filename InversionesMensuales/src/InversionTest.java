@@ -12,9 +12,9 @@ public class InversionTest {
         //Double salidaEsperada4 = 2587.0703;
         double salidaEsperada4 = 2587.0704;
         Inversion inversion = new Inversion(1000, 0.24);
-        //assertEquals(inversion.metodoUno(1), salidaEsperada1);
-        //assertEquals(inversion.metodoUno(2), salidaEsperada2);
-        //assertEquals(inversion.metodoUno(3), salidaEsperada3);
+        assertEquals(inversion.calcularInversionMostrarPor(1), salidaEsperada1,4);
+        assertEquals(inversion.calcularInversionMostrarPor(2), salidaEsperada2,4);
+        assertEquals(inversion.calcularInversionMostrarPor(3), salidaEsperada3,4);
         assertEquals(inversion.calcularInversionMostrarPor(4), salidaEsperada4, 4);
     }
 

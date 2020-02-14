@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82437b88-fefd-42dd-864b-0664af23a641" name="Default Changelist" comment="" />
+    <list default="true" id="82437b88-fefd-42dd-864b-0664af23a641" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InversionesMensuales/Inversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InversionesMensuales/Inversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InversionesMensuales/InversionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InversionesMensuales/InversionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InversionesMensuales/META-INF/InversionesMensuales.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InversionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InversionTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Xim12ApCl1y4ZrmGsWf3NjC2bc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +39,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
@@ -41,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InversionTest.test4">
+  <component name="RunManager" selected="JUnit.InversionTest">
     <configuration name="InversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="InversionesMensuales" />
       <option name="PACKAGE_NAME" value="" />
@@ -93,10 +106,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InversionTest" />
+        <item itemvalue="JUnit.InversionTest.test1" />
         <item itemvalue="JUnit.InversionTest.test4" />
         <item itemvalue="JUnit.InversionTest.test3" />
-        <item itemvalue="JUnit.InversionTest.test1" />
-        <item itemvalue="JUnit.InversionTest" />
         <item itemvalue="JUnit.InversionTest.inversionUnoAño" />
       </list>
     </recent_temporary>
@@ -127,22 +140,22 @@
       <screen x="0" y="27" width="1296" height="741" />
     </state>
     <state x="456" y="109" width="374" height="659" key="#com.intellij.ide.util.MemberChooser/0.27.1296.741@0.27.1296.741" timestamp="1581545289650" />
-    <state width="1250" height="123" key="GridCell.Tab.0.bottom" timestamp="1581716381752">
+    <state width="1250" height="123" key="GridCell.Tab.0.bottom" timestamp="1581718109068">
       <screen x="0" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="123" key="GridCell.Tab.0.bottom/0.27.1296.741@0.27.1296.741" timestamp="1581716381752" />
-    <state width="1250" height="123" key="GridCell.Tab.0.center" timestamp="1581716381750">
+    <state width="1250" height="123" key="GridCell.Tab.0.bottom/0.27.1296.741@0.27.1296.741" timestamp="1581718109068" />
+    <state width="1250" height="123" key="GridCell.Tab.0.center" timestamp="1581718109067">
       <screen x="0" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="123" key="GridCell.Tab.0.center/0.27.1296.741@0.27.1296.741" timestamp="1581716381750" />
-    <state width="1250" height="123" key="GridCell.Tab.0.left" timestamp="1581716381750">
+    <state width="1250" height="123" key="GridCell.Tab.0.center/0.27.1296.741@0.27.1296.741" timestamp="1581718109067" />
+    <state width="1250" height="123" key="GridCell.Tab.0.left" timestamp="1581718109067">
       <screen x="0" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="123" key="GridCell.Tab.0.left/0.27.1296.741@0.27.1296.741" timestamp="1581716381750" />
-    <state width="1250" height="123" key="GridCell.Tab.0.right" timestamp="1581716381751">
+    <state width="1250" height="123" key="GridCell.Tab.0.left/0.27.1296.741@0.27.1296.741" timestamp="1581718109067" />
+    <state width="1250" height="123" key="GridCell.Tab.0.right" timestamp="1581718109068">
       <screen x="0" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="123" key="GridCell.Tab.0.right/0.27.1296.741@0.27.1296.741" timestamp="1581716381751" />
+    <state width="1250" height="123" key="GridCell.Tab.0.right/0.27.1296.741@0.27.1296.741" timestamp="1581718109068" />
     <state width="1250" height="190" key="GridCell.Tab.1.bottom" timestamp="1581597363788">
       <screen x="0" y="27" width="1296" height="741" />
     </state>
